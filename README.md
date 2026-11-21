@@ -127,11 +127,6 @@ Raccourci Alt+Shift+D ────┘        │ 1. injecte content/inspector.js
 - Les couleurs modernes (`oklch()`…) sont converties grâce à un canvas de 1 pixel. Sur un fond en image ou en dégradé, le badge indique « À vérifier ».
 - Résultats contrôlés avec des valeurs de référence : #767676 sur blanc donne 4,54:1 (AA), #777777 donne 4,47:1 (échec).
 
-### Démo et documentation
-
-- GIF de démo de 22 secondes en haut du README.
-- README de présentation, et notes de développement à part (dépannage, feuille de route détaillée).
-
 ## Prochaines étapes
 
 - Guide typographique de la page : polices, tailles et graisses utilisées.
