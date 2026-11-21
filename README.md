@@ -83,7 +83,7 @@ Raccourci Alt+Shift+D ────┘        │ 1. injecte content/inspector.js
 | 2 | Figer avec un clic, copier les valeurs | ✅ 20/11/2026 |
 | 3 | Navigation au clavier dans le DOM | ✅ 20/11/2026 |
 | 4 | Palette de couleurs de la page | ✅ 20/11/2026 |
-| 5 | Guide typographique de la page | ⏳ À venir |
+| 5 | Guide typographique de la page | ✅ 21/11/2026 |
 | 6 | Contraste texte / fond (WCAG, RGAA) | ✅ 21/11/2026 |
 | — | GIF de démo et README | ✅ 21/11/2026 |
 | 7 | Passage à WXT, TypeScript et Firefox | ⏳ À venir |
